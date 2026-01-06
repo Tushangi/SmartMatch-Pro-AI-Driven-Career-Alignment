@@ -1,0 +1,135 @@
+python
+machine learning
+deep learning
+sql
+flask
+django
+data analysis
+pandas
+numpy
+nlp
+computer vision
+tensorflow
+pytorch
+excel
+powerbi
+tableau
+scikit-learn
+keras
+statsmodels
+matplotlib
+seaborn
+plotly
+javascript
+react
+nodejs
+expressjs
+mongodb
+postgresql
+mysql
+redis
+html
+css
+tailwind
+bootstrap
+aws
+azure
+gcp
+docker
+kubernetes
+jenkins
+terraform
+ansible
+linux
+git
+github
+rest api
+graphql
+microservices
+system design
+java
+spring boot
+hibernate
+c++
+c#
+unity
+unreal engine
+golang
+rust
+php
+laravel
+ruby on rails
+swift
+kotlin
+react native
+flutter
+dart
+figma
+adobe xd
+ui/ux design
+wireframing
+product management
+agile
+scrum
+jira
+business analysis
+data engineering
+spark
+hadoop
+kafka
+bigquery
+snowflake
+etl
+data warehousing
+cybersecurity
+penetration testing
+ethical hacking
+blockchain
+solidity
+smart contracts
+r programming
+statistics
+tableau prep
+dax
+power query
+looker
+open cv
+mediapipe
+transformers
+bert
+llm
+langchain
+pmp
+stakeholder management
+financial modeling
+valuation
+tally
+quickbooks
+seo
+sem
+google analytics
+content writing
+copywriting
+video editing
+adobe premiere pro
+after effects
+blender
+maya
+crm
+salesforce
+sap
+abap
+hr recruitment
+payroll
+supply chain management
+logistics
+autocad
+solidworks
+matlab
+pcb design
+vlsi
+verilog
+ros
+mqtt
+raspberry pi
+arduino

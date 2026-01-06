@@ -1,0 +1,101 @@
+job_title,skills
+Data Scientist,python machine learning pandas numpy sql r stats
+ML Engineer,python deep learning tensorflow pytorch scikit-learn
+Data Analyst,excel sql python powerbi tableau statistics
+Backend Developer,python flask django api sql postgresql redis
+AI Engineer,python nlp computer vision deep learning transformers
+Frontend Developer,html css javascript react nextjs tailwind bootstrap
+Full Stack Developer,javascript react nodejs express mongodb sql
+UI/UX Designer,figma adobe-xd wireframing prototyping user-research
+DevOps Engineer,docker kubernetes jenkins aws azure linux terraform
+Cloud Architect,aws azure gcp cloud-computing serverless
+Data Engineer,sql python spark hadoop kafka etl bigquery
+Cybersecurity Analyst,networking firewalls penetration-testing ethical-hacking
+Software Engineer,java spring-boot microservices algorithms data-structures
+Mobile App Developer,react-native flutter dart swift kotlin ios android
+System Administrator,linux windows-server active-directory networking bash
+Blockchain Developer,solidity ethereum smart-contracts cryptography web3
+Database Administrator,mysql oracle sql-server mongodb performance-tuning
+Product Manager,agile scrum jira product-roadmap user-stories
+Business Analyst,requirements-gathering jira documentation sdlc sql
+QA Engineer,selenium cypress manual-testing automation-testing postman
+Data Visualization Expert,d3js tableau powerbi plotly looker
+Embedded Systems Engineer,c c++ microcontrollers rtos robotics
+Network Engineer,cisco routing switching vpn firewall tcp/ip
+Digital Marketing Specialist,seo sem google-analytics content-marketing ads
+SEO Specialist,keyword-research link-building google-search-console
+Content Writer,copywriting blogging technical-writing storytelling
+Social Media Manager,instagram facebook content-strategy analytics
+Salesforce Developer,apex visualforce lwc salesforce-crm
+SAP Consultant,sap-hana abap module-integration erp
+Technical Architect,system-design scalability microservices cloud-design
+HR Specialist,recruitment onboarding talent-management payroll
+Project Manager,pmp agile stakeholder-management budgeting
+Big Data Developer,scala spark hive hbase hadoop
+Game Developer,unity unreal-engine c# c++ game-physics
+Site Reliability Engineer,sre automation monitoring python kubernetes
+Security Engineer,encryption vulnerability-assessment iam soc
+Automation Engineer,python selenium jenkins ansible robotics
+Tableau Developer,tableau-desktop prep sql dashboard-design
+Power BI Developer,dax power-query m-language data-modeling
+NLP Researcher,pytorch nltk spacy bert llm lang-chain
+Computer Vision Engineer,opencv tensorflow media-pipe image-processing
+Cloud Security Engineer,iam waf kms cloudtrail azure-security
+Penetration Tester,kali-linux metasploit burp-suite nmap owasp
+Cloud Engineer,terraform cloudformation azure-devops gcp-compute
+Full Stack Python Developer,python django react postgresql celery
+Full Stack Java Developer,java spring-boot angular hibernate mysql
+React Developer,react redux-toolkit hooks context-api
+NodeJS Developer,nodejs express streams clusters websockets
+Flutter Developer,flutter dart firebase provider state-management
+iOS Developer,swift ui-kit swiftui core-data xcode
+Android Developer,kotlin jetpack-compose retrofit coroutines
+Ruby on Rails Developer,ruby rails active-record rspec
+PHP Developer,php laravel codeigniter symphony mysql
+Unity Developer,c# unity-3d shader-graph ar-vr
+AR/VR Developer,unity c# oculus-sdk openxr spatial-computing
+Golang Developer,go goroutines gorm echo gin microservices
+Rust Developer,rust cargo memory-safety systems-programming
+C++ Developer,c++ multi-threading stl templates opengl
+Django Developer,python django rest-framework orm
+Flask Developer,python flask jinja2 sqlalchemy blueprints
+MERN Stack Developer,mongodb express react nodejs tailwind
+MEAN Stack Developer,mongodb express angular nodejs
+Copywriter,creative-writing branding ad-copy strategy
+Email Marketing Specialist,mailchimp klaviyo automation campaigns
+Customer Success Manager,crm communication empathy problem-solving
+Business Development Executive,lead-generation b2b negotiation sales
+Accountant,tally quickbooks gst taxation auditing
+Financial Analyst,excel valuation financial-modeling bloomberg
+Investment Banker,m&a capital-markets finance valuation
+Risk Analyst,credit-risk market-risk statistics compliance
+Marketing Manager,brand-strategy budget-management leadership
+Supply Chain Manager,logistics procurement inventory sap
+Mechanical Engineer,autocad solidworks thermodynamics manufacturing
+Civil Engineer,revit staad-pro surveying site-management
+Electrical Engineer,matlab pspice circuit-design power-systems
+Electronics Engineer,pcb-design vlsi embedded-c verilog
+VLSI Engineer,verilog vhdl rtl-design fpga cadence
+Robotics Engineer,ros python motion-planning control-systems
+IoT Engineer,mqtt raspberry-pi arduino esp32 sensors
+Bioinformatics Scientist,python r blast genomics sequencing
+Instructional Designer,articulate-storyline captivate lms e-learning
+Video Editor,adobe-premiere after-effects final-cut-pro color-grading
+Graphic Designer,photoshop illustrator indesign branding
+Animator,maya blender after-effects 3d-modeling
+Technical Support Engineer,troubleshooting ticketing hardware networking
+SCRUM Master,agile kanban coaching facilitation
+ERP Consultant,oracle-apps dynamics-365 business-central
+Biomedical Engineer,medical-imaging biomechanics sensors
+Environmental Engineer,eia water-treatment sustainability waste-management
+Quantitative Analyst,python stochastic-calculus finance algorithmic-trading
+ETL Developer,informatica talend ssis data-warehousing
+Mainframe Developer,cobol jcl db2 cics
+Cloud Network Engineer,vpc load-balancer dns direct-connect
+API Developer,rest soap graphql swagger postman
+Scraper Developer,beautifulsoup scrapy puppeteer selenium
+Data Architect,data-modeling nosql snowflake redshift
+DevSecOps Engineer,sast dast sonarqube vault security-automation
+Systems Architect,uml microservices design-patterns scalability
+Performance Tester,jmeter loadrunner k6 profiling
+Accessibility Specialist,wcag aria screen-readers inclusive-design
